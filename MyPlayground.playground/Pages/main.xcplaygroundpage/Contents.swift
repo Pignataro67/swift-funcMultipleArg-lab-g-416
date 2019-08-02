@@ -19,6 +19,7 @@ func continent(continentName: String, numberOfCountries: Int) {
     print("\(continentName) is a continent which contains \(numberOfCountries) countries")
 }
 
+continent(continentName: "Asia", numberOfCountries: 20)
 
 /*: question2
  ### 2. Can you see why the code below doesn't work? Fix the function call to get rid of the error.
