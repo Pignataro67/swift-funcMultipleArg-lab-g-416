@@ -16,7 +16,7 @@
 // write your code here
 
 func continent(continentName: String, numberOfCountries: Int) {
-    print("\(continentName) is a continent which contains \(numberOfCountries) countries")
+    print("\(continentName) is a continent which has \(numberOfCountries) countries")
 }
 
 continent(continentName: "Asia", numberOfCountries: 20)
